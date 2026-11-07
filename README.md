@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=190&section=header&text=Akjot%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20Django%20%C2%B7%20Applied%20AI%2FML&descAlignY=58&descSize=18" alt="Akjot Singh — Python, Django, Applied AI/ML" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,55:4338CA,100:7C3AED&height=190&section=header&text=Akjot%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20Django%20%C2%B7%20Applied%20AI%2FML&descAlignY=58&descSize=18" alt="Akjot Singh — Python, Django, Applied AI/ML" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&width=620&lines=Django+backends+built+for+production;ML+models+from+notebook+to+deployment;Healthcare+AI%2C+deployable+on-prem;Open+to+remote+contract+and+full-time+roles" alt="Django backends built for production. ML models from notebook to deployment. Healthcare AI, deployable on-prem. Open to remote roles." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=620&lines=Django+backends+built+for+production;ML+models+from+notebook+to+deployment;Healthcare+AI%2C+deployable+on-prem;Open+to+remote+contract+and+full-time+roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4338CA&center=true&vCenter=true&width=620&lines=Django+backends+built+for+production;ML+models+from+notebook+to+deployment;Healthcare+AI%2C+deployable+on-prem;Open+to+remote+contract+and+full-time+roles" alt="Django backends built for production. ML models from notebook to deployment. Healthcare AI, deployable on-prem. Open to remote roles." />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://akjotsingh.in"><img src="https://img.shields.io/badge/akjotsingh.in-1e3a8a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:akjot.singh@gmail.com"><img src="https://img.shields.io/badge/akjot.singh@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/India%20·%20IST%20(UTC%2B5:30)-0f172a?style=flat-square&logo=clockify&logoColor=white" alt="Based in India, IST" />
-  <img src="https://img.shields.io/badge/status-available%20for%20work-16a34a?style=flat-square" alt="Available for work" />
+  <a href="https://akjotsingh.in"><img src="https://img.shields.io/badge/akjotsingh.in-4338CA?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:akjot.singh@gmail.com"><img src="https://img.shields.io/badge/akjot.singh@gmail.com-4338CA?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/India%20·%20IST%20(UTC%2B5:30)-4338CA?style=flat-square&logo=clockify&logoColor=white" alt="Based in India, IST" />
+  <img src="https://img.shields.io/badge/available%20for%20work-15803D?style=flat-square" alt="Available for work" />
 </p>
 
 ---
@@ -29,7 +32,10 @@ Freelance software engineer. I build **Django platforms** and **applied machine-
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,pytorch,js,html,css,go,linux,git,github&theme=dark&perline=10" alt="Python, Django, PyTorch, JavaScript, HTML, CSS, Go, Linux, Git, GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,pytorch,js,html,css,go,linux,git,github&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,django,pytorch,js,html,css,go,linux,git,github&theme=light&perline=10" alt="Python, Django, PyTorch, JavaScript, HTML, CSS, Go, Linux, Git, GitHub" />
+  </picture>
 </p>
 
 ## Projects
@@ -47,4 +53,4 @@ Client work is private. Public projects:
 Building a Django product, taking an ML model to production, or need a reliable full-stack engineer on contract?
 **Email [akjot.singh@gmail.com](mailto:akjot.singh@gmail.com)** or visit **[akjotsingh.in](https://akjotsingh.in)**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=90&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:4338CA,100:1E1B4B&height=90&section=footer" alt="" width="100%" />
