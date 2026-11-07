@@ -35,39 +35,24 @@ I'm a freelance software engineer based in India (IST) who builds web platforms 
 
 ## Dashboard
 
-<!-- Cards in ./profile are regenerated daily by .github/workflows/profile-dashboard.yml -->
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
-  <img src="./profile/top-langs.svg" alt="Top languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AkSingh03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkSingh03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AkSingh03&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkSingh03&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph" width="100%" />
-</p>
-
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/AkSingh03/Disease-Analyser-Python-ML"><img src="./profile/pin-Disease-Analyser-Python-ML.svg" alt="Disease-Analyser-Python-ML" /></a>
-  <a href="https://github.com/AkSingh03/VirtualOS_Golang-Fyne"><img src="./profile/pin-VirtualOS_Golang-Fyne.svg" alt="VirtualOS_Golang-Fyne" /></a>
+  <a href="https://github.com/AkSingh03/Disease-Analyser-Python-ML"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=Disease-Analyser-Python-ML&theme=tokyonight&hide_border=true&border_radius=10" alt="Disease-Analyser-Python-ML" /></a>
+  <a href="https://github.com/AkSingh03/VirtualOS_Golang-Fyne"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=VirtualOS_Golang-Fyne&theme=tokyonight&hide_border=true&border_radius=10" alt="VirtualOS_Golang-Fyne" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AkSingh03/MACHINE_LEARNING_4thYear"><img src="./profile/pin-MACHINE_LEARNING_4thYear.svg" alt="MACHINE_LEARNING_4thYear" /></a>
-  <a href="https://github.com/AkSingh03/Go-Fyne_Basics"><img src="./profile/pin-Go-Fyne_Basics.svg" alt="Go-Fyne_Basics" /></a>
-</p>
-
-## Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkSingh03/AkSingh03/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkSingh03/AkSingh03/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AkSingh03/AkSingh03/output/github-snake-dark.svg" />
-  </picture>
+  <a href="https://github.com/AkSingh03/MACHINE_LEARNING_4thYear"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=MACHINE_LEARNING_4thYear&theme=tokyonight&hide_border=true&border_radius=10" alt="MACHINE_LEARNING_4thYear" /></a>
+  <a href="https://github.com/AkSingh03/Go-Fyne_Basics"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=Go-Fyne_Basics&theme=tokyonight&hide_border=true&border_radius=10" alt="Go-Fyne_Basics" /></a>
 </p>
 
 ## Work with me
