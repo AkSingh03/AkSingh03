@@ -1,68 +1,50 @@
-<!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Akjot%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20Django%20%C2%B7%20AI%2FML%20Engineer&descAlignY=58&descSize=18" alt="Akjot Singh" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=190&section=header&text=Akjot%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20Django%20%C2%B7%20Applied%20AI%2FML&descAlignY=58&descSize=18" alt="Akjot Singh — Python, Django, Applied AI/ML" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://akjotsingh.in">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=640&lines=Building+production+Django+backends;Shipping+applied+ML+with+PyTorch;Healthcare+AI+%E2%80%94+on-prem%2C+privacy-first;Freelance+%C2%B7+open+to+remote+roles" alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&width=620&lines=Django+backends+built+for+production;ML+models+from+notebook+to+deployment;Healthcare+AI%2C+deployable+on-prem;Open+to+remote+contract+and+full-time+roles" alt="Django backends built for production. ML models from notebook to deployment. Healthcare AI, deployable on-prem. Open to remote roles." />
 </p>
 
 <p align="center">
-  <a href="https://akjotsingh.in"><img src="https://img.shields.io/badge/Website-akjotsingh.in-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:akjot.singh@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AkSingh03&style=for-the-badge&color=0f172a&label=Profile+views" alt="Profile views" />
+  <a href="https://akjotsingh.in"><img src="https://img.shields.io/badge/akjotsingh.in-1e3a8a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:akjot.singh@gmail.com"><img src="https://img.shields.io/badge/akjot.singh@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/India%20·%20IST%20(UTC%2B5:30)-0f172a?style=flat-square&logo=clockify&logoColor=white" alt="Based in India, IST" />
+  <img src="https://img.shields.io/badge/status-available%20for%20work-16a34a?style=flat-square" alt="Available for work" />
 </p>
 
 ---
 
-## About
+Freelance software engineer. I build **Django platforms** and **applied machine-learning systems** end to end: data model, API, model training, deployment. Most of my recent work is for healthcare and B2B SaaS clients, where data privacy and reliability matter more than demos.
 
-I'm a freelance software engineer based in India (IST) who builds web platforms and applied machine-learning systems end to end — from the data model and API down to deployment.
+## What I build
 
-- **Backend:** Python and Django, REST APIs, relational data modelling, auth and admin tooling
-- **AI / ML:** PyTorch, computer vision, model training and evaluation, on-prem inference for sensitive data
-- **Frontend:** clean, responsive interfaces that sit on top of the backends I build
-- **Currently:** client projects in healthcare and SaaS; open to remote Python / Django / AI-ML roles (contract or full-time)
+| | Area | Typical scope |
+|---|---|---|
+| 🧩 | **Django platforms** | Multi-role web apps, REST APIs, admin tooling, authentication, relational schema design |
+| 🩻 | **Healthcare AI** | PyTorch imaging models (e.g. chest X-ray screening), evaluation, on-prem inference with no data leaving the site |
+| 📋 | **Compliance SaaS** | QMS-style workflows: document control, CAPA, audits, training records, audit trails |
+| 🛒 | **Commerce launches** | Shopify stores with analytics tracking, technical SEO and Meta Ads setup |
 
-## Tech stack
-
-<p align="center">
-  <!-- Edit the list after ?i= to match your stack: https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=python,django,pytorch,go,js,html,css,git,github,linux&perline=10" alt="Tech stack" />
-</p>
-
-## Dashboard
+## Stack
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AkSingh03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkSingh03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" height="170" />
+  <img src="https://skillicons.dev/icons?i=python,django,pytorch,js,html,css,go,linux,git,github&theme=dark&perline=10" alt="Python, Django, PyTorch, JavaScript, HTML, CSS, Go, Linux, Git, GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkSingh03&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
-</p>
+## Projects
 
-## Featured projects
+Client work is private. Public projects:
 
-<p align="center">
-  <a href="https://github.com/AkSingh03/Disease-Analyser-Python-ML"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=Disease-Analyser-Python-ML&theme=tokyonight&hide_border=true&border_radius=10" alt="Disease-Analyser-Python-ML" /></a>
-  <a href="https://github.com/AkSingh03/VirtualOS_Golang-Fyne"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=VirtualOS_Golang-Fyne&theme=tokyonight&hide_border=true&border_radius=10" alt="VirtualOS_Golang-Fyne" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/AkSingh03/MACHINE_LEARNING_4thYear"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=MACHINE_LEARNING_4thYear&theme=tokyonight&hide_border=true&border_radius=10" alt="MACHINE_LEARNING_4thYear" /></a>
-  <a href="https://github.com/AkSingh03/Go-Fyne_Basics"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AkSingh03&repo=Go-Fyne_Basics&theme=tokyonight&hide_border=true&border_radius=10" alt="Go-Fyne_Basics" /></a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [**VirtualOS**](https://github.com/AkSingh03/VirtualOS_Golang-Fyne) | Desktop "virtual OS" shell with built-in calculator, weather, text editor and gallery apps | Go, Fyne |
+| [**Disease Analyser**](https://github.com/AkSingh03/Disease-Analyser-Python-ML) | Machine-learning disease analysis project | Python |
+| [**Automation & scraping**](https://github.com/AkSingh03/Projects) | Python automation and web-scraping utilities | Python |
 
 ## Work with me
 
-Need a Django platform, an ML model taken from notebook to production, or a full-stack build for your business? I take on freelance projects and contract roles.
+Building a Django product, taking an ML model to production, or need a reliable full-stack engineer on contract?
+**Email [akjot.singh@gmail.com](mailto:akjot.singh@gmail.com)** or visit **[akjotsingh.in](https://akjotsingh.in)**.
 
-<p align="center">
-  <a href="https://akjotsingh.in"><img src="https://img.shields.io/badge/Hire%20me-akjotsingh.in-7c3aed?style=for-the-badge" alt="Hire me" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=110&section=footer" alt="" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=90&section=footer" alt="" width="100%" />
