@@ -33,8 +33,8 @@ Freelance software engineer. I build **Django platforms** and **applied machine-
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,pytorch,js,html,css,go,linux,git,github&theme=dark&perline=10" />
-    <img src="https://skillicons.dev/icons?i=python,django,pytorch,js,html,css,go,linux,git,github&theme=light&perline=10" alt="Python, Django, PyTorch, JavaScript, HTML, CSS, Go, Linux, Git, GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cdjango%2Cpytorch%2Cjs%2Chtml%2Ccss%2Cgo%2Clinux%2Cgit%2Cgithub&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python%2Cdjango%2Cpytorch%2Cjs%2Chtml%2Ccss%2Cgo%2Clinux%2Cgit%2Cgithub&theme=light&perline=10" alt="Python, Django, PyTorch, JavaScript, HTML, CSS, Go, Linux, Git, GitHub" />
   </picture>
 </p>
 
